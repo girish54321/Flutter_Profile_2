@@ -55,7 +55,7 @@ Widget mainProfileImage() {
         width: 130.0,
         height: 130.0,
         decoration: new BoxDecoration(
-            color: Colors.pink,
+            color: Colors.grey,
             borderRadius: BorderRadius.all(Radius.circular(8.0)),
             image: new DecorationImage(
                 fit: BoxFit.fill,
